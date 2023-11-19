@@ -25,9 +25,9 @@ https://drive.google.com/drive/folders/1nuxJaU1R6YJt5VfvlCrNDXlhU1b7Crc_?usp=dri
 # Contact methods:
 - USA - text me at ([highest number on a dice]78)[highest number on a dice]13-[highest number on a dice]995
   - This is the only truly reliable way to contact me
-- ELSEWHERE - send an email to all of
+- ELSEWHERE
   - email me at both of [my_last_name].priority@gmail.com and [my_first_name].[my_last_name]@getcruise.com  
-  - or email Ben Kuipers at [his_last_name]@umich.edu to tell him to text me to look at my emails, since he's not an off-internet weirdo like me :-P
+  - or email Ben Kuipers at [his_last_name]@umich.edu . Tell him to text me to look at my emails, since he's not an off-internet weirdo like me :-P
 
 
 Sorry for the mess --I'm a hermit scientist, not a coder-- but I would be happy to hop on video calls to walk anyone through this as needed. 
